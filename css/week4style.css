@@ -1,0 +1,49 @@
+.row1{
+}
+.row2{
+position: relative;
+width: 570px;
+}
+.row3{
+width: 570px;
+}
+.box{
+width: 150px;
+height: 150px;
+background-color: black;
+margin-right: 20px;
+margin-left: 20px;
+margin-bottom: 20px;
+margin-top: 20px;
+}
+.box-a{
+display: inline-block;	
+}
+.box-b{
+display: inline-block;
+}
+.box-c{
+display: inline-block;
+}
+.box-d{
+position: relative;
+}
+.box-e{
+position: absolute;
+left: 190px;
+top: -20px;
+}
+.box-f{
+position: absolute;
+left: 380px;
+top: -20px;
+}
+.box-g{
+float: left;
+}
+.box-h{
+float:right;
+}
+.box-i{
+float: right;
+}
